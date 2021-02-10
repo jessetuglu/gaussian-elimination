@@ -1,3 +1,3 @@
 Gaussian Elimination Implementation
-Compatible with NxN+1 matrices.
+Compatible with augmented matrices.
 
