@@ -1,3 +1,1 @@
-Gaussian Elimination Implementation
-Compatible with augmented matrices.
-
+gaussian elimination algo
